@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/2020/03/08/blog1/</loc>
+    
+    <lastmod>2020-03-08T12:50:14.473Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/04/29/hexo/</loc>
+    
+    <lastmod>2016-05-05T14:17:26.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2016-05-02T06:48:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/04/29/unix/</loc>
+    
+    <lastmod>2016-05-02T06:31:04.000Z</lastmod>
+    
+  </url>
+  
+</urlset>

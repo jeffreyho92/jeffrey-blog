@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-03-08T15:20:54.164Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://thejeffrey.me/"/>
+  <updated>2020-03-14T17:05:57.984Z</updated>
+  <id>https://thejeffrey.me/</id>
   
   <author>
     <name>Jeffrey H.</name>
@@ -16,34 +16,58 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>First step in my career</title>
-    <link href="http://yoursite.com/2020/03/08/first-step-in-my-career/"/>
-    <id>http://yoursite.com/2020/03/08/first-step-in-my-career/</id>
-    <published>2020-03-08T14:50:00.000Z</published>
-    <updated>2020-03-08T15:20:54.164Z</updated>
+    <title>Working in Panasonic Senai</title>
+    <link href="https://thejeffrey.me/2020/03/14/working-in-panasonic-senai/"/>
+    <id>https://thejeffrey.me/2020/03/14/working-in-panasonic-senai/</id>
+    <published>2020-03-14T15:05:00.000Z</published>
+    <updated>2020-03-14T17:05:57.984Z</updated>
     
-    <content type="html">&lt;p&gt;Back then, I was graduated from my Diploma in 2015, that was young, dumb and broke. In Johor Bahru, people will always talk about working in Singapore since its just a distance of a bridge then you can get a high currency exchange. I feel like want to work in Singapore also to earn SGD since the currency exchange rate was 1SGD to 2.6RM at that moment.&lt;br&gt;However, I have zero working experience in my career as a software engineer. I believe it’s very hard to get a job for me as a foreign worker, so I decided to work in Johor Bahru to gain more experience and improve myself.&lt;/p&gt;
-&lt;p&gt;During my job searching, my classmate got a job in a Malay company as a junior developer and he recommended me to join this company, so I went to an interview with his manager and successfully get a job offer with RM1200 monthly salary and the CEO also offer me to work in another branch in Kuala Lumpur. RM1200 is very low salary since the average for a fresh graduate student is RM1800 in JB, RM2200 in KL. At that time I feel like I need more working experience so I accepted the job offer and start working immediately in JB.&lt;/p&gt;
-&lt;p&gt;We need to work in Sunday, take off in Friday and Saturday since its a Malay company and I’m the only one Chinese in whole company, so I have to accept the different culture. I still can remember that moment when my colleagues all go “sembahyang” pray twice a day during working hours, I’m only one stay in office with no body. However I’m still good with my colleagues and learn from them.&lt;/p&gt;
-&lt;p&gt;Unfortunately, I quit this company after 3 days but I still learned a lot. I saw that how they can deal a government project and make one billions Ringgit for each project. I feel like its very hard to join thier culture and I don’t like their project planning, every time have to do OT to rush their project timeline, luckily I never accept the job offer that required me to move to KL.&lt;/p&gt;
-&lt;p&gt;Sometimes misfortune may be an actual blessing, I moving forward in my career and join another company, Panasonic.&lt;/p&gt;
+    <content type="html">&lt;p&gt;When I join Panasonic Senai as a software technician in 2015, my starting salary was only RM1600 and after 3 months of probation, it becomes RM1650. This is quite a low salary but I felt excited went to work every day since I knew this is just temporary. I knew I can earn more salary in the future when I got more working experience.&lt;/p&gt;
+&lt;p&gt;Panasonic Senai is a manufacturer that produces telephone machines and fax machines with employed around 1000 employees including foreign workers. In Infomation System Department, we have 2 teams which are Infra team and Software team. I’m working in the Software team with 5 colleagues. In the beginning, my manager was led me to join the existing projects and understand the company’s system structure. Our team was assigned to support all in-house systems so I have to cooperate with other colleagues from other departments. I have to understand what are they doing and how the system can solve their problems. I found that it’s a big difference in actual working experience compare with what I learned in theory before.&lt;/p&gt;
+&lt;p&gt;After 3 months I was assigned to run a small project alone. It’s a booking system for book meeting rooms. Before I started this project, people who want to book a meeting room have to manage in an excel file which allocated in a shared folder. It’s very hard to check daily appointments and people have to calculate the available time manually. Sometimes people will accidentally remove or edited other people’s bookings. So I planed and developed a web application to solve these issues, it’s a calendar-based application, people can check and make a booking with a user-friendly interface.&lt;/p&gt;
+&lt;p&gt;One day I saw a colleague using this application to easily manage her booking and she told me it’s a very useful application. This is the first time I saw people using an application that developed by me, it’s an impressing feeling, I felt blessed to doing this.&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;Back then, I was graduated from my Diploma in 2015, that was young, dumb and broke. In Johor Bahru, people will always talk about working
+      &lt;p&gt;When I join Panasonic Senai as a software technician in 2015, my starting salary was only RM1600 and after 3 months of probation, it beco
     
     </summary>
     
     
-      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
+      <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>First step in my career</title>
+    <link href="https://thejeffrey.me/2020/03/08/first-step-in-my-career/"/>
+    <id>https://thejeffrey.me/2020/03/08/first-step-in-my-career/</id>
+    <published>2020-03-08T14:50:00.000Z</published>
+    <updated>2020-03-14T14:24:18.923Z</updated>
+    
+    <content type="html">&lt;p&gt;Back then, I was a Diploma graduate in 2015 who was young, dumb and broke. In Johor Bahru, people will always talk about working in Singapore since it’s just a bridge away and earning Singapore dollars is much more lucrative due to the high currency exchange rates. I feel like want to work in Singapore also to earn SGD since the currency exchange rate was 1SGD to 2.6RM at that moment.&lt;br&gt;However, I have zero working experience in my career as a software engineer. I believe it will be very hard to get a job for me as a foreign worker, so I decided to work in Johor Bahru to gain more experience and improve myself.&lt;/p&gt;
+&lt;p&gt;During my job search, my classmate got a job in a Malay company as a junior developer and he recommended me to join this company, so I went to an interview with his manager and successfully got a job offer with RM1200 monthly salary and the CEO also offer me to work in another branch in Kuala Lumpur. RM1200 is very low salary since the average for a fresh graduate student is RM1800 in JB, RM2200 in KL. At that time I felt like I needed more working experience so I accepted the job offer and start working immediately in JB.&lt;/p&gt;
+&lt;p&gt;We need to work on Sunday, take off on Friday and Saturday since it’s a Malay company and I’m the only Chinese in whole company, so I have to accept the different culture. I can still remember that moment when my colleagues all go “sembahyang” pray twice a day during working hours, I’m the only one who stayed in office with no one else. However I’m still good with my colleagues and learned a lot from them.&lt;/p&gt;
+&lt;p&gt;Unfortunately, I quit this company after 3 days but I still learned a lot. I saw that a government project has the potential to make billions of Ringgit. I felt like it’s very hard to accept their culture and I don’t like their project planning, every time have to do OT to rush their project timeline, luckily I did not accept the job offer that required me to move to KL.&lt;/p&gt;
+&lt;p&gt;Sometimes misfortune can actually be a blessing, I moved forward in my career and join another company, Panasonic.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Back then, I was a Diploma graduate in 2015 who was young, dumb and broke. In Johor Bahru, people will always talk about working in Singa
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="https://thejeffrey.me/tags/blog/"/>
     
   </entry>
   
   <entry>
     <title>unix</title>
-    <link href="http://yoursite.com/2016/04/29/unix/"/>
-    <id>http://yoursite.com/2016/04/29/unix/</id>
+    <link href="https://thejeffrey.me/2016/04/29/unix/"/>
+    <id>https://thejeffrey.me/2016/04/29/unix/</id>
     <published>2016-04-29T01:26:13.000Z</published>
     <updated>2016-05-02T06:31:04.000Z</updated>
     
@@ -74,14 +98,14 @@
     </summary>
     
     
-      <category term="unix" scheme="http://yoursite.com/tags/unix/"/>
+      <category term="unix" scheme="https://thejeffrey.me/tags/unix/"/>
     
   </entry>
   
   <entry>
     <title>hexo</title>
-    <link href="http://yoursite.com/2016/04/29/hexo/"/>
-    <id>http://yoursite.com/2016/04/29/hexo/</id>
+    <link href="https://thejeffrey.me/2016/04/29/hexo/"/>
+    <id>https://thejeffrey.me/2016/04/29/hexo/</id>
     <published>2016-04-29T01:21:34.000Z</published>
     <updated>2016-05-05T14:17:26.000Z</updated>
     
@@ -110,7 +134,7 @@
     </summary>
     
     
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+      <category term="hexo" scheme="https://thejeffrey.me/tags/hexo/"/>
     
   </entry>
   

@@ -4,6 +4,7 @@ date: 2020-04-04 23:30:00
 tags: 
 - blog
 - experience
+- B2B
 ---
 
 I have been working in a manufacturing company (Panasonic) as an in-house software developer. The scopes of in-house software are supporting internal business workflows, improve productivity and increase product quality. Since all software is used by our employees, so as a software developer, I have to understand our company's business workflows and what are they doing in each department.

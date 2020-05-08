@@ -6,8 +6,6 @@ tags:
 - B2B
 ---
 
-Configuration Business in a manufacturing company
-
 Back then in 2016, I was working in Panasonic Senai for about one year. My company just started a new department with a new business modal which is C&R, C&R stands for Configuration and Repair. This business is focused on support Panasonic's laptop and tablet which are TOUGHBOOK and TOUGHPAD. They do the customize configuration for the new devices such as install GPS sensors or upgrade software and OS. And the repair team will focus on repair customer's TOUGHBOOK such as hardware that broken or spoilt. 
 
 There is a huge demand from oversea counties like the UK and the US. Panasonic in the UK has a company which doing the same thing as C&R but the labor costs are very high, so we have the cost advantage in Malaysia. Most of the new devices are produced in Taiwan, then they will ship to us and do configuration before send out to customers.

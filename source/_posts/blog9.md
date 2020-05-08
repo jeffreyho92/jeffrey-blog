@@ -2,7 +2,6 @@
 title: Logistics in a manufacturing company
 date: 2020-05-02 23:00:00
 tags: 
-- blog
 - experience
 - B2B
 ---

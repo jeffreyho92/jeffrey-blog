@@ -2,7 +2,6 @@
 title: Purchase Request in a manufacturing company
 date: 2020-04-04 23:30:00
 tags: 
-- blog
 - experience
 - B2B
 ---

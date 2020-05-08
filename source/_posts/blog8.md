@@ -2,7 +2,6 @@
 title: Corporate Purchase in a manufacturing company
 date: 2020-04-25 21:30:00
 tags: 
-- blog
 - experience
 - B2B
 ---

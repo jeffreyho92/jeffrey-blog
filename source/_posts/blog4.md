@@ -1,7 +1,9 @@
 ---
 title: Accept new things
 date: 2020-03-29 23:00:00
-tags: blog
+tags: 
+- blog
+- self-growth
 ---
 
 Back then, I was working in Panasonic Senai, our top management is looking for an inventory system since our members are doing in a manual way of inventory management that lasted 30 years. They manual verify incoming material and manually enter all data into our ERP system which is SAP system. They manual do the stock check with human counting twice a month. These manual ways of working brought about human errors, inefficiency business processes, and cheating in goods lost. These are big problem for our company, it's very hard to manage and affect our company's profit.

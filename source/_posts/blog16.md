@@ -1,7 +1,9 @@
 ---
 title: Learn from failure
 date: 2020-06-21 21:30:00
-tags: blog
+tags: 
+- blog
+- self-growth
 ---
 
 I feel so glad that I'm an optimistic person and think positive, I always think the best thing will happen and I believe everything happens for a reason no matter it's good or bad. 

@@ -1,7 +1,9 @@
 ---
 title: Luck Surface Area
 date: 2020-03-21 23:35:00
-tags: blog
+tags: 
+- blog
+- self-growth
 ---
 
 >You make your own luck - Jason Roberts

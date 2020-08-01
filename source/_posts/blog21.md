@@ -1,6 +1,6 @@
 ---
 title: Get ready to start or start to get ready
-date: 2020-07-27 23:15:00
+date: 2020-07-26 23:15:00
 tags: 
 - blog
 - self-growth

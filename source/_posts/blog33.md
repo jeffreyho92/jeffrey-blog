@@ -1,5 +1,5 @@
 ---
-title: Wait to be ready will be waiting forever.
+title: Waiting to be ready will be waiting forever
 date: 2020-10-19 23:00:00
 tags: 
 - blog

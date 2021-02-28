@@ -1,5 +1,5 @@
 ---
-title: "How can we develop soft skills? "
+title: "How can we develop soft skills?"
 date: 2021-02-21 23:55:00
 tags: 
 - blog

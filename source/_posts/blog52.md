@@ -3,7 +3,7 @@ title: "Start from the first small task"
 date: 2021-02-28 23:00:00
 tags: 
 - blog
-- self-growth
+- productivity
 ---
 
 >The secret of getting ahead is getting started. The secret of getting started is breaking your complex overwhelming tasks into small manageable tasks, and starting on the first one - Mark Twain
